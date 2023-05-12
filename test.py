@@ -16,5 +16,3 @@ app.app_context().push()
 db.create_all()
 print('Tables created successfully')
 
-# 完成操作后弹出应用上下文
-# app.app_context().pop()
